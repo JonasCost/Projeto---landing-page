@@ -4,4 +4,8 @@
     & .even-columns {
         gap: 2rem;
     }
+
+     & p{
+        color: var(--text-color-secondary);
+    }
 }

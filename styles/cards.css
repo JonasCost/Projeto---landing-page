@@ -5,4 +5,7 @@
     & h3 {
         margin-top: 1rem;
     }
+    & p{
+        color: var(--text-color-secondary);
+    }
 }
